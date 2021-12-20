@@ -4,11 +4,11 @@ function Navbar() {
     return (<>
         <div className="topnav">
             <h1>COVIDOMETER</h1>
-            <a href="Myths">Myths</a>
-            <a href="Symptoms">Symptoms</a>
-            <a href="Dos">Do's & Don'ts</a>
-            <a href="Covid">Covid</a>
-            <a className="active" href="/">Home</a>
+            <a href="/covidometer/Myths">Myths</a>
+            <a href="/covidometer/Symptoms">Symptoms</a>
+            <a href="/covidometer/Dos">Do's & Don'ts</a>
+            <a href="/covidometer/Covid">Covid</a>
+            <a className="active" href="/covidometer">Home</a>
         </div>
     </>
     )
