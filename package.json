@@ -1,6 +1,6 @@
 {
   "name": "covidometer",
-  "homepage": "http://daud8090.github.io/covidometer",
+  "homepage": "https://daud8090.github.io/covidometer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
