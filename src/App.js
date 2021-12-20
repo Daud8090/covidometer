@@ -18,7 +18,7 @@ function App() {
         <Route  path="/Dos" element={<><Navbar/> <Dos /></>} />
         <Route  path="/Myths" element={<><Navbar/> <Myths /></>} />
         <Route  path="/Symptoms" element={<><Navbar/> <Symptoms /></>} /> */}
-        <Route exact path="/"><Navbar/> <Body /> <Footer /></Route>
+        <Route exact path="/covidometer"><Navbar/> <Body /> <Footer /></Route>
         <Route  path="/Covid"> <Navbar/> <Covid /> <Footer /></Route>
         <Route  path="/Dos" ><Navbar/> <Dos /> <Footer /></Route>
         <Route  path="/Myths"><Navbar/> <Myths /> <Footer /></Route>
