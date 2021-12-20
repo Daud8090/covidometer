@@ -19,10 +19,10 @@ function App() {
         <Route  path="/Myths" element={<><Navbar/> <Myths /></>} />
         <Route  path="/Symptoms" element={<><Navbar/> <Symptoms /></>} /> */}
         <Route exact path="/covidometer"><Navbar/> <Body /> <Footer /></Route>
-        <Route  path="/covidometer/Covid"> <Navbar/> <Covid /> <Footer /></Route>
-        <Route  path="/covidometer/Dos" ><Navbar/> <Dos /> <Footer /></Route>
-        <Route  path="/covidometer/Myths"><Navbar/> <Myths /> <Footer /></Route>
-        <Route  path="/covidometer/Symptoms" ><Navbar/> <Symptoms /> <Footer /></Route>
+        <Route  path="/Covid"> <Navbar/> <Covid /> <Footer /></Route>
+        <Route  path="/Dos" ><Navbar/> <Dos /> <Footer /></Route>
+        <Route  path="/Myths"><Navbar/> <Myths /> <Footer /></Route>
+        <Route  path="/Symptoms" ><Navbar/> <Symptoms /> <Footer /></Route>
       </Switch>
     </Router>
   </>
