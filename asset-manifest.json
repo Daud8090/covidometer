@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/covidometer/static/css/main.c8601b64.chunk.css",
+    "main.js": "/covidometer/static/js/main.55ef97b1.chunk.js",
+    "main.js.map": "/covidometer/static/js/main.55ef97b1.chunk.js.map",
+    "runtime-main.js": "/covidometer/static/js/runtime-main.c963d5db.js",
+    "runtime-main.js.map": "/covidometer/static/js/runtime-main.c963d5db.js.map",
+    "static/css/2.f789a0b3.chunk.css": "/covidometer/static/css/2.f789a0b3.chunk.css",
+    "static/js/2.54b8eea6.chunk.js": "/covidometer/static/js/2.54b8eea6.chunk.js",
+    "static/js/2.54b8eea6.chunk.js.map": "/covidometer/static/js/2.54b8eea6.chunk.js.map",
+    "index.html": "/covidometer/index.html",
+    "static/css/2.f789a0b3.chunk.css.map": "/covidometer/static/css/2.f789a0b3.chunk.css.map",
+    "static/css/main.c8601b64.chunk.css.map": "/covidometer/static/css/main.c8601b64.chunk.css.map",
+    "static/js/2.54b8eea6.chunk.js.LICENSE.txt": "/covidometer/static/js/2.54b8eea6.chunk.js.LICENSE.txt",
+    "static/media/Body.css": "/covidometer/static/media/4.a3069fca.webp",
+    "static/media/Covid.css": "/covidometer/static/media/covid.6e0c6983.webp",
+    "static/media/Dos.css": "/covidometer/static/media/do3.386f215b.jpg",
+    "static/media/dailyCases.936e7537.png": "/covidometer/static/media/dailyCases.936e7537.png",
+    "static/media/dos&dontimg1.5b909c79.png": "/covidometer/static/media/dos&dontimg1.5b909c79.png",
+    "static/media/dos&dontsimg2.6e25cd85.png": "/covidometer/static/media/dos&dontsimg2.6e25cd85.png",
+    "static/media/dos&dontsimg3.81bdcd73.png": "/covidometer/static/media/dos&dontsimg3.81bdcd73.png",
+    "static/media/dos&dontsimg4.85b8bf75.png": "/covidometer/static/media/dos&dontsimg4.85b8bf75.png",
+    "static/media/fever.86d53e0f.jpg": "/covidometer/static/media/fever.86d53e0f.jpg",
+    "static/media/font-awesome.min.css": "/covidometer/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/headche.eca62157.jpg": "/covidometer/static/media/headche.eca62157.jpg",
+    "static/media/highbodytemp.e0b25661.jpg": "/covidometer/static/media/highbodytemp.e0b25661.jpg",
+    "static/media/ibreathing.c35cfa31.jpg": "/covidometer/static/media/ibreathing.c35cfa31.jpg",
+    "static/media/mythimg4.e4fe6dc0.webp": "/covidometer/static/media/mythimg4.e4fe6dc0.webp",
+    "static/media/mythimg5.b7643cd3.webp": "/covidometer/static/media/mythimg5.b7643cd3.webp",
+    "static/media/Myths.css": "/covidometer/static/media/myths1.7332c733.jpg",
+    "static/media/mythsimg3.876456fe.webp": "/covidometer/static/media/mythsimg3.876456fe.webp",
+    "static/media/Symptoms.css": "/covidometer/static/media/s3.87229377.png",
+    "static/media/sneaging.1dce3971.jpg": "/covidometer/static/media/sneaging.1dce3971.jpg",
+    "static/media/totalCases.b42461d9.png": "/covidometer/static/media/totalCases.b42461d9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c963d5db.js",
+    "static/css/2.f789a0b3.chunk.css",
+    "static/js/2.54b8eea6.chunk.js",
+    "static/css/main.c8601b64.chunk.css",
+    "static/js/main.55ef97b1.chunk.js"
+  ]
+}
