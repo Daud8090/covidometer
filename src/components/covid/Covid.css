@@ -10,11 +10,12 @@
   }
   .paragraph{
     margin:auto;
+    font-size: 25px;
   }
   .fixed-bg {
     width: 100%;
     height: 100%;
-    background-image: url("../../utility/background/covid.webp");
+    background-image: url("../../utility/background/covid121.webp");
     background-size: 100% 100%;
   background-attachment: fixed;
 }
