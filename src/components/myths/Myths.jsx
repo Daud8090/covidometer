@@ -8,13 +8,13 @@ function Myths() {
         <table>
             <tr>
                 <td>
-                    <img src={mythimg5}  alt="can't load image" className='img1' />
+                    <img src={mythimg5}  alt="can't load image" className='imgmyths' />
                 </td>
                 <td>
-                    <img src={mythimg4} alt="can't load image" className='img1' />
+                    <img src={mythimg4} alt="can't load image" className='imgmyths' />
                 </td>
                 <td>
-                    <img src={mythsimg3} alt="can't load image" className='img1' />
+                    <img src={mythsimg3} alt="can't load image" className='imgmyths' />
                 </td>
             </tr>
         </table>

@@ -3,7 +3,6 @@ import Images from '../images/Images';
 import './Body.css';
 import {getWorldData,getIndianData} from '../../api';
 import Table from '../table/Table';
-import Footer from '../footer/Footer';
 
 function Body() {
     const worldData=getWorldData();

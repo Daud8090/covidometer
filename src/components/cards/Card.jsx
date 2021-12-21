@@ -1,7 +1,7 @@
 import './Card.css'
 
 function Card(props) {
-// console.log(props)
+// console.log(prop)
     return (<div role="grid" className="cardcontainer">
         <div role="row" class="card">
             <div class="card-header">
