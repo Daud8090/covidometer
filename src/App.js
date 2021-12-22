@@ -13,7 +13,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom"
 
 function App() {
   return (<>
-    <Router>
+    <Router basename='/covidometer'>
       <Switch>
         <Route exact path="/covidometer"><Navbar whichIsActive="home"/> <Body /> <Footer /></Route>
         <Route  path="/covidometer/Covid"> <Navbar whichIsActive="Covid"/> <Covid /> <Footer /></Route>
