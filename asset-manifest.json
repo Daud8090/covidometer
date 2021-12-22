@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covidometer/static/css/main.2fd5d846.chunk.css",
-    "main.js": "/covidometer/static/js/main.136c2c64.chunk.js",
-    "main.js.map": "/covidometer/static/js/main.136c2c64.chunk.js.map",
+    "main.js": "/covidometer/static/js/main.fb63ace3.chunk.js",
+    "main.js.map": "/covidometer/static/js/main.fb63ace3.chunk.js.map",
     "runtime-main.js": "/covidometer/static/js/runtime-main.af5d8b35.js",
     "runtime-main.js.map": "/covidometer/static/js/runtime-main.af5d8b35.js.map",
     "static/css/2.f789a0b3.chunk.css": "/covidometer/static/css/2.f789a0b3.chunk.css",
@@ -39,6 +39,6 @@
     "static/css/2.f789a0b3.chunk.css",
     "static/js/2.2c29edb3.chunk.js",
     "static/css/main.2fd5d846.chunk.css",
-    "static/js/main.136c2c64.chunk.js"
+    "static/js/main.fb63ace3.chunk.js"
   ]
 }
