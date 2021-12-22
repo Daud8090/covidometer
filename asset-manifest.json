@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/covidometer/static/css/main.bc222500.chunk.css",
-    "main.js": "/covidometer/static/js/main.fb63ace3.chunk.js",
-    "main.js.map": "/covidometer/static/js/main.fb63ace3.chunk.js.map",
+    "main.css": "/covidometer/static/css/main.2fd5d846.chunk.css",
+    "main.js": "/covidometer/static/js/main.136c2c64.chunk.js",
+    "main.js.map": "/covidometer/static/js/main.136c2c64.chunk.js.map",
     "runtime-main.js": "/covidometer/static/js/runtime-main.af5d8b35.js",
     "runtime-main.js.map": "/covidometer/static/js/runtime-main.af5d8b35.js.map",
     "static/css/2.f789a0b3.chunk.css": "/covidometer/static/css/2.f789a0b3.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.2c29edb3.chunk.js.map": "/covidometer/static/js/2.2c29edb3.chunk.js.map",
     "index.html": "/covidometer/index.html",
     "static/css/2.f789a0b3.chunk.css.map": "/covidometer/static/css/2.f789a0b3.chunk.css.map",
-    "static/css/main.bc222500.chunk.css.map": "/covidometer/static/css/main.bc222500.chunk.css.map",
+    "static/css/main.2fd5d846.chunk.css.map": "/covidometer/static/css/main.2fd5d846.chunk.css.map",
     "static/js/2.2c29edb3.chunk.js.LICENSE.txt": "/covidometer/static/js/2.2c29edb3.chunk.js.LICENSE.txt",
     "static/media/Body.css": "/covidometer/static/media/4.a3069fca.webp",
     "static/media/Covid.css": "/covidometer/static/media/covid121.5a387f8a.webp",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.af5d8b35.js",
     "static/css/2.f789a0b3.chunk.css",
     "static/js/2.2c29edb3.chunk.js",
-    "static/css/main.bc222500.chunk.css",
-    "static/js/main.fb63ace3.chunk.js"
+    "static/css/main.2fd5d846.chunk.css",
+    "static/js/main.136c2c64.chunk.js"
   ]
 }
