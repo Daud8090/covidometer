@@ -12,28 +12,28 @@
 }
 .dofixbg {
     width: 100%;
-    height: 100vh;
+    height: 600px;
     background-image: url("../../utility/background/do2.png");
     background-size: 100% 100%;
   background-attachment: fixed;
 }
 .dofixbg3 {
     width: 100%;
-    height: 100vh;
+    height: 600px;
     background-image: url("../../utility/background/do1.jpg");
     background-size: 100% 100%;
   background-attachment: fixed;
 }
 .dofixbg2 {
     width: 100%;
-    height: 100vh;
+    height: 600px;
     background-image: url("../../utility/background/covid2.jpg");
     background-size: 100% 100%;
   background-attachment: fixed;
 }
 .dofixbg1 {
     width: 100%;
-    height: 100vh;
+    height: 600px;
     background-image: url("../../utility/background/do3.jpg");
     background-size: 100% 100%;
   background-attachment: fixed;

@@ -4,28 +4,28 @@
 }
 .fixedbg1 {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: url("../../utility/1.webp");
     background-size: 100% 100%;
   background-attachment: fixed;
 }
 .fixedbg2 {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: url("../../utility/2.webp");
     background-size: 100% 100%;
   background-attachment: fixed;
 }
 .fixedbg3 {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: url("../../utility/3.webp");
     background-size: 100% 100%;
   background-attachment: fixed;
 }
 .fixedbg4 {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: url("../../utility/4.webp");
     background-size: 100% 100%;
   background-attachment: fixed;
