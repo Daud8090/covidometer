@@ -9,17 +9,19 @@ import Symptoms from './components/symptoms/Symptoms'
 import Footer from './components/footer/Footer';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom"
 import Vaccine from './components/vaccine/vaccine';
+import Fetchnews from './components/news/Fetchnews';
 
 function App() {
   return (<>
     <Router>
       <Switch>
         <Route exact path="/"><Navbar/> <Body /> <Footer /></Route>
+        <Route  path="/Vaccine" ><Navbar/> <Vaccine /> <Footer /></Route>
         <Route  path="/Covid"> <Navbar/> <Covid /> <Footer /></Route>
         <Route  path="/Dos" ><Navbar/> <Dos /> <Footer /></Route>
         <Route  path="/Myths"><Navbar/> <Myths /> <Footer /></Route>
         <Route  path="/Symptoms" ><Navbar/> <Symptoms /> <Footer /></Route>
-        <Route  path="/Vaccine" ><Navbar/> <Vaccine /> <Footer /></Route>
+        <Route  path="/News" ><Navbar/> <Fetchnews /> <Footer /></Route>
       </Switch>
     </Router>
   </>

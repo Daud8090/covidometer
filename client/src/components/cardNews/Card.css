@@ -1,0 +1,30 @@
+.card{
+    /* text-align: center; */
+    width: 30%;
+    height: 20%;
+    margin: 1%;
+    box-shadow: 0 4px 8px 0 rgba(12, 106, 112, 0.753);
+    transition: width 2s, height 4s;
+}
+.card:hover{
+    height: 20%;
+    width: 40%;
+    box-shadow: 0 16px 26px 0 rgba(233, 51, 44, 0.836);
+    /* background-color: rgb(139, 192, 238); */
+}
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10%;
+}
+.recovered{
+    color: green;
+}
+.deaths{
+    color: red;
+}
+.active{
+    color: yellow;
+}

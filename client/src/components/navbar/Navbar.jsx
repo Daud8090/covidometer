@@ -9,6 +9,7 @@ function Navbar() {
             <a href="Dos">Do's & Don'ts</a>
             <a href="Covid">Covid</a>
             <a href="Vaccine">Vaccine</a>
+            <a href="News">News</a>
             <a className="active" href="/">Home</a>
         </div>
     </>

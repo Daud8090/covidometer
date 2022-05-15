@@ -12,6 +12,31 @@ let txnId = "",token;
 let binarylarge="";
 const XMLHttpRequest = require('xhr2');
 
+app.get("/News",jsonParser, (req,res) => {
+  let news_array=[];
+  let news;
+  let req_news =  new XMLHttpRequest();
+  req_news.open("GET","https://newsapi.org/v2/everything?q=%22covid%20news%22&from=2022-05-09&sortBy=publishedAt&apiKey=77a654357d54459eae06f8919df53446",true);
+  req_news.send();
+   req_news.addEventListener("load",function(){
+      news=JSON.parse(req_news.responseText).articles;
+     console.log(news.length,"---news")
+    for(let i=0;i<news.length;i++)
+    {
+      let obj={
+        title:news[i].title,
+        description:news[i].description,
+        image:news[i].urlToImage,
+        publishedAt:news[i].publishedAt,
+        content:news[i].content
+      }
+      news_array.push(obj);
+    }
+    res.send(news_array)
+  });
+});
+
+
 app.post("/api",jsonParser,async (req,res) => {
     let body = {
       "mobile" : req.body.number
